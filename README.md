@@ -7,7 +7,7 @@
 💞️ I’m open to collaborating on data-driven projects, analytics dashboards, ETL pipelines, and real-world problem-solving using data.
 
 📫 How to reach me:
-- LinkedIn: https://www.linkedin.com/in/rajay-73736b227/
+- LinkedIn: https://www.linkedin.com/in/rajay-ghimire-73736b227/
 - Email: rajayghimire@gmail.com
 
 
